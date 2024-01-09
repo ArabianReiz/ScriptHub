@@ -1,3 +1,6 @@
+# Warning
+You need a executor to execute these scripts. Executor is to be client-sided or server-sided this is not a problem.
+
 # **loadstrings**
 
 ## Infinite Yield
