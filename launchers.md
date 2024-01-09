@@ -9,7 +9,7 @@ You need a executor to execute these scripts. Executor is to be ~~client-sided~~
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/ArabianReiz/ScriptHub/main/InfiniteYield.lua"))()
 
 ## FE Yeet Gui
-> loadstring(game:HttpGet("https://raw.githubusercontent.com/ArabianReiz/ScriptHub/main/StreamSniper.lua"))()
+> loadstring(game:HttpGet("https://raw.githubusercontent.com/ArabianReiz/ScriptHub/main/FEYeetGui.lua"))()
 
 ## Stream Sniper
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/ArabianReiz/ScriptHub/main/StreamSniper.lua"))()
