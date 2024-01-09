@@ -1,4 +1,5 @@
-# WELKAM
+# WELKAM!
+Yeni ülkene merhaba de vatandaş!
 
 ## Bura nere aq?
 
