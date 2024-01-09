@@ -1,4 +1,4 @@
-# Warning
+# Reminder
 You need a executor to execute these scripts. Executor is to be ~~client-sided~~ or server-sided this is not a problem.
 
 **ATTENTION**: If you are using a client-sided executor you can't execute require scripts!
