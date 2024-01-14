@@ -14,9 +14,9 @@ You need a executor to execute these scripts. Executor is to be ~~client-sided~~
 ## Stream Sniper
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/ArabianReiz/ScriptHub/main/StreamSniper.lua"))()
 
-## Invis Troll Gui
+## FE Invis Gui
 > loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Invisible%20Gui'))()
-> (works on client executors)
+> (works on client-server executors)
 
 # **require scripts**
 
