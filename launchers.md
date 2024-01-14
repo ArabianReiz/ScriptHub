@@ -16,10 +16,7 @@ You need a executor to execute these scripts. Executor is to be ~~client-sided~~
 
 ## FE Invis Gui
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Invisible%20Gui"))()
-> (works on client-server executors)
-
-## FE Headless
-> loadstring(game:HttpGet("https://raw.githubusercontent.com/ArabianReiz/ScriptHub/main/fe-headless.lua"))()
+> (can work on client-sided executors)
 
 # **require scripts**
 
