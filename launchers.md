@@ -2,6 +2,7 @@
 You need a executor to execute these scripts. Executor is to be ~~client-sided~~ or server-sided this is not a problem.
 
 **ATTENTION**: If you are using a client-sided executor you can't execute require scripts! (also all scripts is not mine.)
+
 **HINT**: if scripts have "FE", that script can be seen by everyone (even client-sided)
 
 # **loadstrings**
