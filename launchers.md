@@ -10,6 +10,9 @@ You need a executor to execute these scripts. Executor is to be ~~client-sided~~
 ## Infinite Yield
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/ArabianReiz/ScriptHub/main/InfiniteYield.lua"))()
 
+## Dark Dex Infinite Yield Version (opensource: https://github.com/infyiff/backup/blob/main/dex.lua)
+> loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/dex.lua"))()
+
 ## *FE* Yeet Gui
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/ArabianReiz/ScriptHub/main/FEYeetGui.lua"))()
 
