@@ -31,14 +31,14 @@ end
 
 local function notif(str,dur)
 	game:FindService("StarterGui"):SetCore("SendNotification", {
-		Title = "FE Yeet Gui",
+		Title = "yeet gui",
 		Text = str,
 		Icon = "rbxassetid://2005276185",
 		Duration = dur or 3
 	})
 end
 
---// Main
+--// sds
 
 local h = Instance.new("ScreenGui")
 local Main = Instance.new("ImageLabel")
@@ -47,8 +47,8 @@ local Title = Instance.new("TextLabel")
 local TextBox = Instance.new("TextBox")
 local TextButton = Instance.new("TextButton")
 
-h.Name = "Yeet Gui"
-h.Parent = game.Players.LocalPlayer.PlayerGui
+h.Name = "h"
+h.Parent = game:GetService("CoreGui")
 h.ResetOnSpawn = false
 
 Main.Name = "Main"
@@ -109,7 +109,7 @@ TextButton.MouseButton1Click:Connect(function()
 	local Target = gplr(TextBox.Text)
 	if Target[1] then
 		Target = Target[1]
-
+		
 		local Thrust = Instance.new('BodyThrust', lp.Character.HumanoidRootPart)
 		Thrust.Force = Vector3.new(9999,9999,9999)
 		Thrust.Name = "YeetForce"
@@ -123,5 +123,5 @@ TextButton.MouseButton1Click:Connect(function()
 	end
 end)
 
---// Starter
+--//fsddfsdf
 notif("Loaded successfully! Created by scuba#0001", 5)
